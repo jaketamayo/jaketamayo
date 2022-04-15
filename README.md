@@ -1,22 +1,42 @@
-### Hi there 👋
+<h3 align="left"> What's Up</h3>
+<p>I'm a software developer with a focus on app development</p>
 
 
-**jaketamayo/jaketamayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="https://twitter.com/hellojaketamayo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jake-tamayo-a644bb1b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+ <a href="https://www.behance.net/jaketamayo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-plain.svg" alt="" height="30" width="40" /></a>
+  
+<h4> Below are my specialties: </h4>
+ 
+<h5>Languages</h5>
+<p align="left">
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg" height=30 /> 
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height=30 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=30 />
+          
+<h5>IDE Tools</h5>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height=40/>
+          
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/hellojaketamayo)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jake-tamayo/)
+<h5>Creative Tools</h5>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height=30/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height=30/>
 
-<!-- Skills -->
-[](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+<sub><i><small>Community College Chess Athlete</small></i></sub>
+          
+          
+          
+          
+  
+  
+  
+  
+ 
 
