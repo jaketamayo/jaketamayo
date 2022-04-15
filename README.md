@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<!--
+
 **jaketamayo/jaketamayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://img.shields.io/twitter/follow/hellojaketamayo?style=social
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/hellojaketamayo)
 
 Here are some ideas to get you started:
 
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
