@@ -14,13 +14,13 @@
 <p align="left">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg" height=30 /> 
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height=30 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=30 />
+
           
 <h5>IDE Tools</h5>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=40 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height=40/>
+
           
 
 <h5>Creative Tools</h5>
